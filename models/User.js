@@ -40,3 +40,8 @@ UserSchema.methods.comparePassword = function comparePassword(
 };
 
 module.exports = mongoose.model("User", UserSchema);
+
+
+
+//Test Users 
+// bob bob@test.com bobbobbob
